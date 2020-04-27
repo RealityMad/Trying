@@ -51,10 +51,14 @@ margin-bottom: 40px;
 h2 {
     background-color:
      black;
-     color: cornsilk;
+     color: whitesmoke;
      padding: 20px;
 }
 
 p {
     margin-left: 20px;
+}
+
+footer {
+    color: whitesmoke;
 }
