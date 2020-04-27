@@ -25,33 +25,13 @@ img, video, audio, iframe {
     margin-right: auto;
 }
 
-video {
+video, audio, iframe, img {
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 20px;
 }
 
-audio {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 20px;
-}
-
-iframe {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 20px;
-}
-
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 20px;
-}
 /* Sections */
 
 h1, h2 {
@@ -75,3 +55,6 @@ h2 {
      padding: 20px;
 }
 
+p {
+    margin-left: 20px;
+}
